@@ -1,0 +1,57 @@
+/* INDEX */
+
+.carousel-inner {
+    width: 1300px;
+    height: 800px;
+    margin: 80px;
+    
+     }
+    .ig { margin: 500px;
+    }
+    
+    .backimage{
+    
+        background-image: url(../html/bg-masthead.jpg);
+    }
+
+    $miRojo: Red;
+    $miazul: blue;
+
+
+        .text--center{
+
+            text-align: center
+        }
+
+        header{
+
+            background-color: rgb(179, 218, 219);
+
+           
+         h1{
+            color: $miRojo
+
+
+        }
+        }
+/*contact*/
+
+
+
+
+@mixin h3 {
+    
+    color: cyan;
+    justify-content: space-around;
+    margin top: 40px;
+}
+.h3{
+
+    color: coral;
+
+
+}
+
+
+
+

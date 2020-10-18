@@ -1,0 +1,22 @@
+/* INDEX */
+.carousel-inner {
+  width: 1300px;
+  height: 800px;
+  margin: 80px; }
+
+.ig {
+  margin: 500px; }
+
+.backimage {
+  background-image: url(../html/bg-masthead.jpg); }
+
+.text--center {
+  text-align: center; }
+
+header {
+  background-color: #b3dadb; }
+  header h1 {
+    color: Red; }
+
+.h3 {
+  color: coral; }
